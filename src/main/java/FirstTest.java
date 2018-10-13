@@ -2,4 +2,7 @@ public class FirstTest {
     public static void main(String[] args) {
         System.out.println("firsttest第b次修改");
     }
+    public void show(){
+        System.out.println("branch1");
+    }
 }

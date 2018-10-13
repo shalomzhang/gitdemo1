@@ -3,6 +3,6 @@ public class FirstTest {
         System.out.println("firsttestÊÇ·ñÄÜµ½new2");
     }
     public void show(){
-        System.out.println("branch555551");
+        System.out.println("branch555551new666");
     }
 }
